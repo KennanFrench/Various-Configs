@@ -4,7 +4,7 @@
   "filterLinkHints": false,
   "waitForEnterForFilteredHints": true,
   "hideHud": false,
-  "keyMappings": "# Insert your preferred key mappings here.\nmap F LinkHints.activateModeToOpenInNewForegroundTab\nmap <a-F> LinkHints.activateModeToOpenInNewTab\nmap I passNextKey\nunmap zH\nmap 0 scrollToLeft\nunmap zL\nmap $ scrollToRight\nunmap gt\nunmap gT\nunmap >>\nmap gK moveTabRight\nunmap <<\nmap gJ moveTabLeft\nunmap p\nunmap P\nmap P LinkHints.activateModeToOpenIncognito\nmap ' Marks.activateGotoMode\nunmap ^\nmap % visitPreviousTab",
+  "keyMappings": "# Insert your preferred key mappings here.\nmap F LinkHints.activateModeToOpenInNewForegroundTab\nmap <a-F> LinkHints.activateModeToOpenInNewTab\nmap I passNextKey\nunmap zH\nmap 0 scrollToLeft\nunmap zL\nmap $ scrollToRight\nunmap gt\nunmap gT\nunmap >>\nmap gK moveTabRight\nunmap <<\nmap gJ moveTabLeft\nunmap p\nunmap P\nmap P LinkHints.activateModeToOpenIncognito\nmap ' Marks.activateGotoMode\nunmap ^\nmap % visitPreviousTab\nmap R reload hard",
   "linkHintCharacters": "abcdefghijklmnopqrstuvwxyz",
   "linkHintNumbers": "0123456789",
   "newTabUrl": "about:newtab",

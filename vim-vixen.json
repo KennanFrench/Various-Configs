@@ -1,5 +1,0 @@
-{
-  "keymaps": {
-    "R": { "type": "tabs.reload", "cache": true }
-  }
-}
